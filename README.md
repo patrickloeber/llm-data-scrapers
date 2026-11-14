@@ -15,6 +15,7 @@ A list of useful Open Source tools and scrapers to gather data for LLMs:
 | [files-to-prompt](https://github.com/simonw/files-to-prompt) | Concatenate a directory full of files into a single prompt for use with LLMs | 
 | [docling](https://github.com/DS4SD/docling) | Simplifies document processing and parsing of diverse formats | 
 | [firecrawl](https://github.com/mendableai/firecrawl) |  API to turn websites into LLM-ready markdown or structured data, can be self-hosted (with limitations) | 
+| [huntsman](https://github.com/TulipFarm/huntsman) | Self-hosted Go scraper that turns any page into clean Markdown behind a Firecrawl-compatible API, rendering JavaScript with Lightpanda |
 | [llmstxt-generator](https://github.com/mendableai/llmstxt-generator) | API to generate `llms.txt`files  from websites for LLM training and inference | 
 
 ## More
